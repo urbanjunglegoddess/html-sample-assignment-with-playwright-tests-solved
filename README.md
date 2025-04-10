@@ -33,7 +33,7 @@ This assignment should prove that a student is able to:
 - [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [x] The code MUST be formatted with Prettier
 - [x] Push the changes to the Github repo, when finished.
-- [ ] Submit a txt file with the Github repo url.
+- [x] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 
