@@ -44,3 +44,4 @@ This assignment should prove that a student is able to:
 - [x] Set the document title to be "Sample project"
 - [x] Set the page heading to be "Sample project"
 - [x] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
+
